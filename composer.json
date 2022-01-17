@@ -1,0 +1,19 @@
+{
+    "name": "nikitaglobal/wpsettings",
+    "description": "Simple plugin settings page",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nikitaglobal\\Wpsettings\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikita Menshutin",
+            "email": "packagist@nikita.global"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
